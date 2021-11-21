@@ -13,7 +13,7 @@ $ go get -u github.com/dougEfresh/gtoggl-api
 
 ```go
 import "github.com/dougEfresh/gtoggl"
-import "github.com/dougEfresh/gtoggl-api/gtproject"
+import "github.com/hyzgh/gtoggl-api/gtproject"
 
 func main() {
   thc, err := gtoggl.NewClient("token")

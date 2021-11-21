@@ -3,9 +3,9 @@ package gttimeentry
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/dougEfresh/gtoggl-api/gthttp"
-	"github.com/dougEfresh/gtoggl-api/gtproject"
-	"github.com/dougEfresh/gtoggl-api/gtworkspace"
+	"github.com/hyzgh/gtoggl-api/gthttp"
+	"github.com/hyzgh/gtoggl-api/gtproject"
+	"github.com/hyzgh/gtoggl-api/gtworkspace"
 	"net/url"
 	"time"
 )
