@@ -3,7 +3,7 @@ package gtclient
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/dougEfresh/gtoggl-api/gthttp"
+	"github.com/hyzgh/gtoggl-api/gthttp"
 )
 
 // Toggl Client Definition

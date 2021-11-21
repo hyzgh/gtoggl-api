@@ -1,7 +1,7 @@
 package gttimeentry
 
 import (
-	"github.com/dougEfresh/gtoggl-api/test"
+	"github.com/hyzgh/gtoggl-api/test"
 	"testing"
 	"time"
 )
